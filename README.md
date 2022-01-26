@@ -1,4 +1,5 @@
 - Checkout __version2__ branch
+- OR [Visit the version-app](https://todo-react-gladwin.netlify.app/) 
 ## Available Scripts
 
 In the project directory, you can run:
