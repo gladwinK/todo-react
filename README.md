@@ -4,6 +4,7 @@
   - Your data never leaves your browser, it stays in your browser unless you clear the todos.
   - Currently in _version-2_ the data of your todo is stored in your browser's local storage; so even if you close the website and revisit the website later, your     previous data will be automatially loaded from the local storage of browser.
   - 🙂 And yeah if you're wondering that it would be slow to load from local storage , __NOPE it loads crazy fast ⚡️⚡️⚡️__
+  
   -***NOTE :*** __If you clear the browser-cache, you would lose all your data stored in the local-storage😬.__
 
 ## Available Scripts
